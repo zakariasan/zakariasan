@@ -1,14 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm zak</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/za_kariah" target="blank"><img src="https://img.shields.io/twitter/follow/za_kariah?logo=twitter&style=for-the-badge" alt="za_kariah" /></a> </p>
 
-- 🌱 I’m currently learning **nodeJs and express**
+-- 🌱 I’m currently learning **nodeJs and express**
 
-- 👨‍💻 All of my projects are available at [zak-4r1a-portfolio.netlify.app/](zak-4r1a-portfolio.netlify.app/)
+-- 👨‍💻 All of my projects are available at [zak-4r1a-portfolio.netlify.app/](zak-4r1a-portfolio.netlify.app/)
 
-- 📫 How to reach me **elitziko@gmail.com**
+-- 📫 How to reach me **elitziko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
