@@ -7,7 +7,7 @@
 
 -- 👨‍💻 All of my projects are available at [zak-4r1a-portfolio.netlify.app/](zak-4r1a-portfolio.netlify.app/)
 
--- 📫 How to reach me **elitziko@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
